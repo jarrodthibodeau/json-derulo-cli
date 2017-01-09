@@ -1,0 +1,19 @@
+{
+  "author": "Jarrod Z. Thibodeau",
+  "bin": {
+    "json-derulo": "./index.js"
+  },
+  "dependencies": {
+    "commander": "^2.9.0"
+  },
+  "description": "CLI tool to manage JSON files with strict structures",
+  "devDependencies": {
+  },
+  "license": "ISC",
+  "main": "index.js",
+  "name": "json-derulo-cli",
+  "scripts": {
+    "test": "echo 'Yo!'"
+  },
+  "version": "0.0.0"
+}
