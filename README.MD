@@ -2,6 +2,8 @@
 
 ### A CLI tool to manage JSON files, specifically areas where there is an array of objects.
 
+### Currently only working for Node v6. Will fix ASAP.
+
 ### DISCLAIMER: This is not a stable tool yet. Right now this mainly support JSON files that contain an array of objects or just an object (package.json). If this meets your needs then use away!
 
 ### Installation
