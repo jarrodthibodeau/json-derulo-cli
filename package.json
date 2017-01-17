@@ -4,14 +4,21 @@
     "json-derulo": "./index.js"
   },
   "dependencies": {
-    "commander": "^2.9.0"
+    "co": "^4.6.0",
+    "co-fs": "^1.2.0",
+    "co-prompt": "^1.0.0",
+    "commander": "^2.9.0",
+    "underscore": "^1.8.3"
   },
   "description": "CLI tool to manage JSON files with strict structures",
-  "devDependencies": {
-  },
+  "devDependencies": {},
   "license": "ISC",
-  "main": "index.js",
+  "main": "./index.js",
   "name": "json-derulo-cli",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jarrodthibodeau/json-derulo-cli"
+  },
   "scripts": {
     "test": "echo 'Yo!'"
   },
