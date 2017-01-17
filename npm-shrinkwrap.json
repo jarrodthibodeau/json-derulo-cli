@@ -1,0 +1,56 @@
+{
+  "name": "json-derulo-cli",
+  "version": "0.0.0",
+  "dependencies": {
+    "co": {
+      "version": "4.6.0",
+      "from": "co@>=4.6.0 <5.0.0",
+      "resolved": "https://registry.npmjs.org/co/-/co-4.6.0.tgz"
+    },
+    "co-from-stream": {
+      "version": "0.0.0",
+      "from": "co-from-stream@0.0.0",
+      "resolved": "https://registry.npmjs.org/co-from-stream/-/co-from-stream-0.0.0.tgz"
+    },
+    "co-fs": {
+      "version": "1.2.0",
+      "from": "co-fs@>=1.2.0 <2.0.0",
+      "resolved": "https://registry.npmjs.org/co-fs/-/co-fs-1.2.0.tgz"
+    },
+    "co-prompt": {
+      "version": "1.0.0",
+      "from": "co-prompt@>=1.0.0 <2.0.0",
+      "resolved": "https://registry.npmjs.org/co-prompt/-/co-prompt-1.0.0.tgz"
+    },
+    "co-read": {
+      "version": "0.0.1",
+      "from": "co-read@0.0.1",
+      "resolved": "https://registry.npmjs.org/co-read/-/co-read-0.0.1.tgz"
+    },
+    "commander": {
+      "version": "2.9.0",
+      "from": "commander@>=2.9.0 <3.0.0",
+      "resolved": "https://registry.npmjs.org/commander/-/commander-2.9.0.tgz"
+    },
+    "graceful-readlink": {
+      "version": "1.0.1",
+      "from": "graceful-readlink@>=1.0.0",
+      "resolved": "https://registry.npmjs.org/graceful-readlink/-/graceful-readlink-1.0.1.tgz"
+    },
+    "keypress": {
+      "version": "0.2.1",
+      "from": "keypress@>=0.2.1 <0.3.0",
+      "resolved": "https://registry.npmjs.org/keypress/-/keypress-0.2.1.tgz"
+    },
+    "thunkify": {
+      "version": "0.0.1",
+      "from": "thunkify@0.0.1",
+      "resolved": "https://registry.npmjs.org/thunkify/-/thunkify-0.0.1.tgz"
+    },
+    "underscore": {
+      "version": "1.8.3",
+      "from": "underscore@>=1.8.3 <2.0.0",
+      "resolved": "https://registry.npmjs.org/underscore/-/underscore-1.8.3.tgz"
+    }
+  }
+}
