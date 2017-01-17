@@ -1,4 +1,6 @@
 #!/usr/bin/env node --harmony
+'use strict';
+
 const commander =  require('commander'),
       fs = require('fs'),
       assert = require('assert'),
