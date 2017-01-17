@@ -1,6 +1,6 @@
 {
   "name": "json-derulo-cli",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "dependencies": {
     "co": {
       "version": "4.6.0",
