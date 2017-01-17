@@ -11,9 +11,7 @@
     "underscore": "^1.8.3"
   },
   "description": "CLI tool to manage JSON files with strict structures",
-  "devDependencies": {},
   "license": "ISC",
-  "main": "./index.js",
   "name": "json-derulo-cli",
   "repository": {
     "type": "git",
