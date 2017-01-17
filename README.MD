@@ -2,7 +2,7 @@
 
 ## A CLI tool to manage JSON files, specifically areas where there is an array of objects.
 
-## DISCLAIMER: This is not a stable tool yet. Right now this mainly support JSON files that contain an array of objects or just an object (package.json). If this meets your needs then use away!
+### DISCLAIMER: This is not a stable tool yet. Right now this mainly support JSON files that contain an array of objects or just an object (package.json). If this meets your needs then use away!
 
 ### Installation
 ` npm i -g json-derulo-cli `
